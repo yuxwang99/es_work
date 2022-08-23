@@ -1,4 +1,4 @@
-# es_work
+# Project 1 of EPFL embedded system
 The C file drives a motor using a controlled signal from a joystick. Tuning the joystick, you can change the polarity and speed of the motor. 
 This is implemented by an ADC that converts the simulated signal from joystick to digital data. Then we use digital data to control the duty cycle of the output wave. 
 
